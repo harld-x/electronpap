@@ -4,7 +4,8 @@
   "description": "app to optimaze images",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
   },
   "author": "Yudin Danil",
   "license": "ISC",
