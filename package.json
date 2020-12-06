@@ -1,0 +1,14 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "app to optimaze images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Yudin Danil",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  }
+}
