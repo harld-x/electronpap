@@ -1,14 +1,14 @@
 <h1>Usage</h1>
-Install Dependencies
+<h2>Install Dependencies</h2>
 
 npm install
 
-Run
+<h2>Run</h2>
 
 npm start
 npm run dev (with Nodemon)
 
-Package
+<h2>Package</h2>
 
 npm run package-mac
 npm run package-win
