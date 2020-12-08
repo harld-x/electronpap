@@ -12,5 +12,7 @@ npm run dev (with Nodemon)
 <h2>Package</h2>
 
 npm run package-mac
+
 npm run package-win
+
 npm run package-linux
