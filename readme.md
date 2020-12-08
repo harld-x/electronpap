@@ -6,6 +6,7 @@ npm install
 <h2>Run</h2>
 
 npm start
+
 npm run dev (with Nodemon)
 
 <h2>Package</h2>
